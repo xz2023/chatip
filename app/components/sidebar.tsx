@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           AI视频大师
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          先做IP战略蓝图在做视频执行
+        先有IP战略蓝图再有抖音执行
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
