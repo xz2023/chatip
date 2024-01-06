@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          AI视频大师
+          AI视频创作伙伴
         </div>
         <div className={styles["sidebar-sub-title"]}>
         先有IP战略蓝图再有抖音执行
